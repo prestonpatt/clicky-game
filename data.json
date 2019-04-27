@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Luke Skywalker",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/luke-skywalker-main_5a38c454_461eebf5.jpeg?region=0%2C0%2C1536%2C864",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Princess Leia",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/leia-organa-feature-image_d0f5e953.jpeg?region=0%2C0%2C1280%2C720",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Han Solo",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/han-solo-main_a4c8ff79.jpeg?region=0%2C0%2C1920%2C1080&width=1536",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Darth Vader",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/Darth-Vader_6bda9114.jpeg?region=0%2C23%2C1400%2C785",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Obi-Wan Kenobi",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/Obi-Wan-Kenobi_6d775533.jpeg?region=0%2C0%2C1536%2C864",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Chewbacca",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/solo-chewbacca-main_80768fa8.jpeg?region=8%2C0%2C1543%2C868&width=1536",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Rey",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/talj-rey-main-image-2_668bb5dc.jpeg?region=0%2C0%2C1560%2C878&width=1536",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Poe Dameron",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/poe-dameron_70f5aee2.jpeg?region=0%2C0%2C1560%2C878&width=1536",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Finn",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/finn-main_952e10d2.jpeg?region=0%2C0%2C1560%2C878&width=1536",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Kylo Ren",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/kylo-ren-db-main_e2e6f666.jpeg?region=0%2C0%2C1560%2C878&width=1536",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Captain Phasma",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/captain-phasma_8f4ea1d7.jpeg?region=0%2C87%2C1560%2C879&width=1536",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Supreme Leader Snoke",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/ep8-ff-006360_c95dace6.jpeg?region=0%2C0%2C1280%2C720",
+        "clicked": false
+    }
+]
